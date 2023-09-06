@@ -11,15 +11,15 @@ import Superman4 from '../images/movies/Superman4.png';
 
 const MovieImageArr = [
     { id: 1, image: Godfather },
-    { id: 1, image: Highlander },
-    { id: 1, image: Highlander2 },
-    { id: 1, image: LastOfTheMohicans },
-    { id: 1, image: PoliceAcademy6 },
-    { id: 1, image: RearWindow },
-    { id: 1, image: RoadHouse },
-    { id: 1, image: Shawshank },
-    { id: 1, image: StarTrack4 },
-    { id: 1, image: Superman4 },
+    { id: 2, image: Highlander },
+    { id: 3, image: Highlander2 },
+    { id: 4, image: LastOfTheMohicans },
+    { id: 5, image: PoliceAcademy6 },
+    { id: 6, image: RearWindow },
+    { id: 7, image: RoadHouse },
+    { id: 8, image: Shawshank },
+    { id: 9, image: StarTrack4 },
+    { id: 10, image: Superman4 },
 ]
 
 export default MovieImageArr
