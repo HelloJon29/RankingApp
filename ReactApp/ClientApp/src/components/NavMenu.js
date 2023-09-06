@@ -37,7 +37,7 @@ export class NavMenu extends Component {
           light
         >
           <NavbarBrand tag={Link} to="/">
-            ReactApp
+            RankingApp
           </NavbarBrand>
           <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
           <Collapse
